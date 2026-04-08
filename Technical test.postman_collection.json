@@ -231,7 +231,7 @@
       "response": []
     },
     {
-      "name": "Return data with id 5",
+      "name": "Return data with userId 5",
       "event": [
         {
           "listen": "test",
