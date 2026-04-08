@@ -1,5 +1,6 @@
-                  Technical test Answer - QA Automation Intern
-                                Ade Nisa Nurmala Sari
+Technical test Answer - QA Automation Intern
+Ade Nisa Nurmala Sari
+
 Project test untuk API testing dengan menggunakan public API : https://jsonplaceholder.typicode.com 
 Dimana tools yang dipakai adalah Spreadsheet untuk membuat test scenario nya dan Postman untuk melakukan automation testnya
 
